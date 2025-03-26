@@ -1,0 +1,39 @@
+# ========== General ========== #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.lock
+*.cache
+*.pid
+*.seed
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+
+# ========== Node.js / JavaScript / TypeScript ========== #
+node_modules/
+dist/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode-test/
+.next/
+.out/
+*.tsbuildinfo
+
+# ========== Python ========== #
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
